@@ -45,4 +45,4 @@ const server = createServer((req, res) => {
 
 server.listen(PORT, () => {
     console.log('Rise Server');
-})
+});
